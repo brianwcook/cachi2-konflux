@@ -1,0 +1,3 @@
+[submodule "cachi2"]
+	path = cachi2
+	url = https://github.com/brianwcook/cachi2.git
